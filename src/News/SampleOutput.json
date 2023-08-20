@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 36,
+    "articles": [
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Axios",
+            "title": "\"Barbie\" tops $1 billion in box office sales in first for women directors - Axios",
+            "description": null,
+            "url": "https://www.axios.com/2023/08/07/barbie-makes-history-as-film-surpasses-1b-in-box-office-sales",
+            "urlToImage": null,
+            "publishedAt": "2023-08-07T05:29:01Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "espn",
+                "name": "ESPN"
+            },
+            "author": null,
+            "title": "FC Dallas 4-4 Inter Miami CF (Aug 6, 2023) Game Analysis - ESPN",
+            "description": "Expert recap and game analysis of the Inter Miami CF vs. FC Dallas Leagues Cup game from August 6, 2023 on ESPN.",
+            "url": "https://www.espn.com/soccer/report/_/gameId/685175",
+            "urlToImage": "https://a.espncdn.com/combiner/i?img=/i/espn/misc_logos/500/soccer.png",
+            "publishedAt": "2023-08-07T04:06:28Z",
+            "content": "Lionel Messi scored a pair of vintage goals to lead Inter Miami CF in a stunning comeback win over FC Dallas in the Leagues Cup on Sunday in Frisco, Texas.\r\nThe World Cup winner scored Miami's first … [+2570 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Cheryl Teh",
+            "title": "Elon Musk says he's 300 pounds, Zuck may win on endurance - Business Insider",
+            "description": "\"I am much bigger and there is a reason MMA has weight divisions,\" Musk wrote on Twitter on Sunday, weighing in on his chances versus Zuck.",
+            "url": "https://www.businessinsider.com/elon-musk-zuck-cage-fight-weight-may-win-on-endurance-2023-8",
+            "urlToImage": "https://i.insider.com/64d0579ff5d4870019e2b476?width=1200&format=jpeg",
+            "publishedAt": "2023-08-07T03:58:00Z",
+            "content": "Elon Musk wants people to know he weighs 300 pounds and totally stands a chance against Mark Zuckerberg in a cage match.\r\nIt all started on Sunday with a post from Ed Krassenstein on X, the social me… [+1845 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "Dean Straka",
+            "title": "Oregon, Washington depart for Big Ten: How the Ducks, Huskies have fared against every new conference opponent - CBS Sports",
+            "description": "Washington has faced every existing Big Ten member at least once, while Oregon has clashed with all but two",
+            "url": "https://www.cbssports.com/college-football/news/oregon-washington-depart-for-big-ten-how-the-ducks-huskies-have-fared-against-every-new-conference-opponent/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/08/05/13546c34-3739-437a-8a6d-c3a3585f1b50/thumbnail/1200x675/ccb214cc1ea0840f59254b735d4ad7d1/gettyimages-461464368.jpg",
+            "publishedAt": "2023-08-07T03:20:00Z",
+            "content": "Oregon and Washington will have a new home come the 2024 college football season after the Ducks and Huskies both announced on Friday their intentions to depart the Pac-12 for the Big Ten. Though the… [+9746 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Fiery mid-air collision involving firefighting helicopter in Riverside County - KCAL News",
+            "description": null,
+            "url": "https://www.youtube.com/watch?v=sjKOyELXL58",
+            "urlToImage": null,
+            "publishedAt": "2023-08-07T03:18:24Z",
+            "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Josh Pennington",
+            "title": "As critical deadline for Niger’s military coup expires, the country’s airspace closes due to ‘threat of intervention’ - CNN",
+            "description": "Niger’s airspace closed on Sunday, the day imposed as a deadline by a group of African countries for Nigerien military coup leaders to release power and reinstate the country’s democratically-elected president.",
+            "url": "https://www.cnn.com/2023/08/06/africa/niger-coup-leaders-airspace-closed-sunday/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230806190325-01-niger-coup-rally-080623.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-07T02:49:00Z",
+            "content": "Nigers airspace closed on Sunday, the day imposed as a deadline by a group of African countries for Nigerien military coup leaders to release power and reinstate the countrys democratically-elected p… [+2384 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "YouTube"
+            },
+            "author": null,
+            "title": "Street Fighter 6 A.K.I Official Teaser Trailer | EVO 2023 - GameSpot",
+            "description": "A maniacal poison aficionado, A.K.I. can’t wait to sink her nails into her opponents as the second character from Year 1. Owners of the Deluxe and Ultimate E...",
+            "url": "https://www.youtube.com/watch?v=pfcgP65UvrY",
+            "urlToImage": "https://i.ytimg.com/vi/pfcgP65UvrY/maxresdefault.jpg",
+            "publishedAt": "2023-08-07T02:25:31Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "ASIM TANVEER",
+            "title": "Express train derails in southern Pakistan, killing 30 people and injuring more than 90 - The Associated Press",
+            "description": "Ten cars of an express train derailed in southern Pakistan on Sunday, killing 30 people and injuring more than 90 others. The Hazara Express train was going from Karachi to Rawalpindi when the cars went off the tracks and some overturned. Local television sho…",
+            "url": "https://apnews.com/article/train-derailment-pakistan-hazara-express-20fcf825ad7d86cec736dbd819c3e3fb",
+            "urlToImage": "https://dims.apnews.com/dims4/default/b996d86/2147483647/strip/true/crop/3322x1869+0+173/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fc1%2Fc2%2F6425be9df56c99f7c86237386770%2F3107d860eb984dc1becdbe5f95d991e8",
+            "publishedAt": "2023-08-07T02:02:00Z",
+            "content": "MULTAN, Pakistan (AP) Ten cars of a passenger train derailed in southern Pakistan on Sunday, killing 30 people and injuring more than 90 others, officials said. \r\nSome of the derailed cars on the Haz… [+2691 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Pope Francis Says Catholic Church Open To LGBT People But... - NDTV",
+            "description": "Pope Francis said on Sunday that the Catholic Church is open to everyone, including homosexuals, and that it has a duty to accompany them on a personal path of spirituality but within the framework of its rules.",
+            "url": "https://www.ndtv.com/world-news/pope-francis-says-catholic-church-open-to-lgbt-people-but-4275168",
+            "urlToImage": "https://c.ndtvimg.com/2022-07/6l5fpgn_pope-francis-_625x300_30_July_22.jpg",
+            "publishedAt": "2023-08-07T01:40:29Z",
+            "content": "Francis has pushed a series of reforms since he became pope 10 years ago.\r\nVatican City: Pope Francis said on Sunday that the Catholic Church is open to everyone, including homosexuals, and that it h… [+3490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Erik Uebelacker",
+            "title": "Maryland Town on Edge After Apparent Murder Off Popular Nature Trail - The Daily Beast",
+            "description": "Rachel Morin, 37, was believed to have gone missing at around 6 p.m. Saturday.",
+            "url": "https://www.thedailybeast.com/maryland-town-on-edge-after-apparent-murder-of-rachel-morin-off-ma-and-pa-trail",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_513,w_912,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1691368443/rachel-morin_xzhdim_wh4pa4",
+            "publishedAt": "2023-08-07T00:49:00Z",
+            "content": "A frantic weekend search for 37-year-old Rachel Morinwho disappeared Saturday evening near the Ma and Pa Trail in Bel Air, Marylandhas ended after investigators discovered a body near the route.\r\nWhe… [+1909 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "Daimler Truck finance chief Jochen Goetz, credited with its spinoff from Mercedes-Benz maker, dies - ABC News",
+            "description": "Daimler Truck says its chief financial officer Jochen Goetz has died",
+            "url": "https://abcnews.go.com/International/wireStory/daimler-truck-finance-chief-jochen-goetz-credited-spinoff-102061226",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2023-08-07T00:45:00Z",
+            "content": "Jochen Goetz, the chief financial officer of Daimler Truck and credited with its successful spinoff from the automotive giant that makes the Mercedes-Benz, has died, the company said Sunday. He was 5… [+700 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Raja Razek, Sara Smart, Camila Bernal, Sarah Moon",
+            "title": "Florida man went to extreme measures to survive being lost at sea for nearly 2 days - CNN",
+            "description": "Charles Gregory headed out for an early morning fishing trip Friday off the coast of St. Augustine, Florida – something he’d done many times before.",
+            "url": "https://www.cnn.com/2023/08/06/us/charles-gregory-missing-st-augustine/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230806104825-02-missing-boat-florida-grab.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-07T00:37:00Z",
+            "content": "Charles Gregory headed out for an early morning fishing trip Friday off the coast of St. Augustine, Florida something hed done many times before.\r\nBut the tide rose quicker than he thought. Then a wa… [+2863 chars]"
+        },
+        {
+            "source": {
+                "id": "the-washington-post",
+                "name": "The Washington Post"
+            },
+            "author": "Ben Brasch",
+            "title": "Juneau's Mendenhall Glacier flooding sweeps away homes, surprises Alaska capital - The Washington Post",
+            "description": "No injuries were reported, but floodwaters took part of a third home and caused “significant undermining” damage to a condominium building, city officials said.",
+            "url": "https://www.washingtonpost.com/nation/2023/08/06/flooding-glacier-juneau-mendenhall-basin/",
+            "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/LGOH53DTUNBTO45A6PIXKHPADA_size-normalized.jpg&w=1440",
+            "publishedAt": "2023-08-07T00:30:37Z",
+            "content": "Comment on this story\r\nComment\r\nUnprecedented glacial flooding over the weekend swept away two homes and severely damaged others in Alaskas capital city, officials said Sunday.\r\nNo injuries have been… [+3322 chars]"
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": "Matthew Wells",
+            "title": "Conor McGregor, Jake Paul get into nasty Twitter exchange - MMA Junkie",
+            "description": "Conor McGregor and Jake Paul went at it on social media after the Irish superstar was critcial of Nate Diaz.",
+            "url": "https://mmajunkie.usatoday.com/lists/conor-mcgregor-critcizes-nate-diaz-prompts-ugly-tweets-jake-paul",
+            "urlToImage": "https://mmajunkie.usatoday.com/wp-content/uploads/sites/91/2023/08/conor-mcgregor-jake-paul-split.jpg?w=1000&h=576&crop=1",
+            "publishedAt": "2023-08-07T00:13:00Z",
+            "content": "Conor McGregor has a bitter rivalry with Nate Diaz, and following Saturday’s main event boxing match against Jake Paul, the Irishman had plenty to say about what he witnessed.\r\nAt the sold-out Americ… [+789 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Adam Bankhurst",
+            "title": "Mortal Kombat 1 Adds Reptile, Ashrah, and Havik as New Fighters at EVO 2023 - IGN",
+            "description": "At EVO 2023, NetherRealm revealed Reptile, Ashrah, and Havik will be joining the roster of Mortal Kombat 1 and that Sareena will be a new Kameo.",
+            "url": "https://www.ign.com/articles/mortal-kombat-1-adds-reptile-ashrah-and-havik-as-new-fighters-at-evo-2023",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/08/06/repitle-1691365952845.png?width=1280",
+            "publishedAt": "2023-08-07T00:03:06Z",
+            "content": "At EVO 2023, NetherRealm revealed Reptile, Ashrah, and Havik will be joining the roster of Mortal Kombat 1 and that Sareena will be a new Kameo.\r\nThe news was announced alongside a brand new Mortal K… [+1811 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Shosh Bedrosian",
+            "title": "Apparent murder-suicide involving prominent Mt. Sinai Hospital oncologist rocks Westchester County town of Somers - CBS New York",
+            "description": "Locals say Dr. Krystal Cascetta kept to herself, but was well thought of throughout the community.",
+            "url": "https://www.cbsnews.com/newyork/news/apparent-murder-suicide-involving-prominent-mt-sinai-hospital-oncologist-rocks-westchester-county-town-of-somers/",
+            "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/08/06/6a608804-deef-4466-94a6-a62a6eb9cd91/thumbnail/1200x630/4b92cb8d72b87f7a84bb2666e5322c3d/krystal-cascetta-somers-murder-suicide.jpg?v=523df724471d66f84598615fede8d33f",
+            "publishedAt": "2023-08-06T23:08:21Z",
+            "content": "SOMERS, N.Y. -- Residents in a northern Westchester County town are in shock after learning about the deaths of a prominent doctor at Mt. Sinai Hospital and her baby, killed in an apparent murder-sui… [+1951 chars]"
+        },
+        {
+            "source": {
+                "id": "associated-press",
+                "name": "Associated Press"
+            },
+            "author": "MATT O'BRIEN",
+            "title": "Dungeons & Dragons tells illustrators to stop using AI to generate artwork for fantasy franchise - The Associated Press",
+            "description": "The Dungeons & Dragons role-playing game franchise says it won’t allow artists to use artificial intelligence technology to draw its cast of sorcerers, druids and other characters and scenery. D&D art is supposed to be fanciful. But at least one ax-wielding g…",
+            "url": "https://apnews.com/article/dungeons-dragons-ai-artificial-intelligence-dnd-wizards-of-coast-hasbro-b852a2b4bcadcf52ea80275fb7a6d3b1",
+            "urlToImage": "https://dims.apnews.com/dims4/default/283895e/2147483647/strip/true/crop/2000x1125+0+104/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F3f%2F54%2F475dcf4d5389c4a1dd0d608b9786%2F8dca06e60f8c44c9b81a7b4038433690",
+            "publishedAt": "2023-08-06T22:31:00Z",
+            "content": "The Dungeons &amp; Dragons role-playing game franchise says it wont allow artists to use artificial intelligence technology to draw its cast of sorcerers, druids and other characters and scenery. \r\nD… [+2076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WOODTV.com"
+            },
+            "author": "Skyler Ashley",
+            "title": "Michigan lottery player wins $2M in Mega Millions drawing - WOODTV.com",
+            "description": "A Michigan lottery player won $2 million as a second-tier prize in the latest Mega Millions drawing.",
+            "url": "https://www.woodtv.com/news/michigan/michigan-lottery-player-wins-2m-in-mega-millions-drawing/",
+            "urlToImage": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/08/MegaMillionsGettyImages-458636507-1.jpg?w=1280",
+            "publishedAt": "2023-08-06T22:25:46Z",
+            "content": "LANSING, Mich. (WLNS) A Michigan lottery player won $2 million as a second-tier prize in the latest Mega Millions drawing. \r\nDespite having no grand prize winner, nine players matched all five balls … [+459 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "Shania Russell",
+            "title": "Ne-Yo doesn't 'understand' parents who let kids make a 'life-changing decision' about their gender identity - Yahoo Entertainment",
+            "description": "“I just personally come from an era where a man was a man and a woman was a woman,” said the singer.",
+            "url": "https://ew.com/celebrity/ne-yo-parenting-transgender-kids-opinion-doesnt-understand/",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hLNQMGsHu95q5Dep_CSL3g--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://media.zenfs.com/en/entertainment_weekly_785/c82ac893543183cf8f133c447ddd4641",
+            "publishedAt": "2023-08-06T21:07:28Z",
+            "content": "Grammy-winning musician Ne-Yo is voicing his thoughts about kids these days.\r\nIn an interview with Gloria Velez for VladTV, the \"So Sick\" singer and father of seven questioned whether minors should b… [+2922 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "KRQE News 13"
+            },
+            "author": "Laila Freeman",
+            "title": "Fire at plastic facility prompts health alert in Bernalillo County - KRQE News 13",
+            "description": "BCFR and Albuquerque Fire Rescue are on the scene.",
+            "url": "https://www.krqe.com/news/albuquerque-metro/fire-outside-of-abq-recycling-facility-emits-black-smoke/",
+            "urlToImage": "https://www.krqe.com/wp-content/uploads/sites/12/2023/08/8.6.23-recycling-facility-fire-2-_krqe.jpg?w=1280",
+            "publishedAt": "2023-08-06T21:03:56Z",
+            "content": "BERNALILLO COUNTY, N.M. (KRQE) — A fire started outside of a plastic facility on Sunday. It emitted black smoke south of Albuquerque on Sunday.\r\nBernalillo County Fire Rescue (BCFR) said a fire start… [+2071 chars]"
+        }
+    ]
+}
